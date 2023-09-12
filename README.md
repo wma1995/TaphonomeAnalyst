@@ -16,3 +16,8 @@ Python 3.8.8
 ### Documentation
 
 `python TaphonomeAnalyst.py -h`
+
+### Dataset For Article
+
+File：./Supplementary table 1.xlsx
+Article：A new method for examining the co-occurrence network of fossil assemblages
